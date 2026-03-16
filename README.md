@@ -5,7 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A real-time, terminal-based ASCII music visualizer built for Windows. It captures system audio on the fly, estimates BPM, and fetches the currently playing track's metadata to deliver a smooth, retro-aesthetic audio visualization experience right in your command line.
-
+---
+<img src="assets/visualizer.png" alt="Music Visualizer CLI Demo" width="700"/>
 ---
 
 ## ✨ Features
